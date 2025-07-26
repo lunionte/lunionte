@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<div align="center" style="background: linear-gradient(135deg, #4b5e7a, #718096); padding: 40px 20px; border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2); animation: fadeIn 1.5s ease-in-out;">
+<div align="center" style="background: linear-gradient(135deg, #4b5e7a, #718096); padding: 40px 20px; border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);">
   <h1 style="color: #ffffff; font-weight: 800; font-family: 'Fira Code', monospace; font-size: 36px; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">
     Olá, eu sou o Ítalo 👋
   </h1>
@@ -12,9 +12,9 @@
   </p>
 </div>
 
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #4b5e7a, #718096, #4b5e7a); margin: 40px 0; animation: slideIn 1s ease-in-out;" />
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #4b5e7a, #718096, #4b5e7a); margin: 40px 0;" />
 
-<section style="background: #ffffff; border-radius: 15px; padding: 30px; max-width: 800px; margin: 0 auto; box-shadow: 0 10px 25px rgba(0,0,0,0.15); transition: transform 0.3s ease; animation: fadeInUp 1s ease-in-out;">
+<section style="background: #ffffff; border-radius: 15px; padding: 30px; max-width: 800px; margin: 0 auto; box-shadow: 0 10px 25px rgba(0,0,0,0.15);">
   <h2 style="color: #2c3e50; font-family: 'Fira Code', monospace; font-weight: 700; font-size: 28px; margin-bottom: 20px; text-align: center; text-transform: uppercase; letter-spacing: 1px;">
     💻 Tecnologias & Ferramentas
   </h2>
@@ -32,9 +32,9 @@
   </p>
 </section>
 
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #4b5e7a, #718096, #4b5e7a); margin: 40px 0; animation: slideIn 1s ease-in-out;" />
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #4b5e7a, #718096, #4b5e7a); margin: 40px 0;" />
 
-<section style="background: #ffffff; border-radius: 15px; padding: 30px; max-width: 800px; margin: 0 auto; box-shadow: 0 10px 25px rgba(0,0,0,0.15); animation: fadeInUp 1.2s ease-in-out;">
+<section style="background: #ffffff; border-radius: 15px; padding: 30px; max-width: 800px; margin: 0 auto; box-shadow: 0 10px 25px rgba(0,0,0,0.15);">
   <h2 style="color: #2c3e50; font-family: 'Fira Code', monospace; font-weight: 700; font-size: 28px; margin-bottom: 20px; text-align: center; text-transform: uppercase; letter-spacing: 1px;">
     📊 Estatísticas do GitHub
   </h2>
@@ -44,9 +44,9 @@
   </p>
 </section>
 
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #4b5e7a, #718096, #4b5e7a); margin: 40px 0; animation: slideIn 1s ease-in-out;" />
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #4b5e7a, #718096, #4b5e7a); margin: 40px 0;" />
 
-<section style="background: #ffffff; border-radius: 15px; padding: 30px; max-width: 800px; margin: 0 auto; box-shadow: 0 10px 25px rgba(0,0,0,0.15); animation: fadeInUp 1.4s ease-in-out;">
+<section style="background: #ffffff; border-radius: 15px; padding: 30px; max-width: 800px; margin: 0 auto; box-shadow: 0 10px 25px rgba(0,0,0,0.15);">
   <h2 style="color: #2c3e50; font-family: 'Fira Code', monospace; font-weight: 700; font-size: 28px; margin-bottom: 20px; text-align: center; text-transform: uppercase; letter-spacing: 1px;">
     📬 Onde me encontrar
   </h2>
@@ -58,23 +58,8 @@
   </p>
 </section>
 
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #4b5e7a, #718096, #4b5e7a); margin: 40px 0; animation: slideIn 1s ease-in-out;" />
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #4b5e7a, #718096, #4b5e7a); margin: 40px 0;" />
 
 <p align="center" style="margin: 20px 0;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00d4ff&center=true&vCenter=true&width=480&lines=Em+constante+evolução.;Construa,+quebre,+refatore,+repita." style="filter: drop-shadow(0 2px 5px rgba(0,212,255,0.5));"/>
 </p>
-
-<style>
-  @keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
-  }
-  @keyframes fadeInUp {
-    from { opacity: 0; transform: translateY(20px); }
-    to { opacity: 1; transform: translateY(0); }
-  }
-  @keyframes slideIn {
-    from { width: 0; }
-    to { width: 100%; }
-  }
-</style>
