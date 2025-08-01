@@ -6,7 +6,7 @@
   </h1>
 
   <p style="font-size: 18px; color: #e0e6f0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; margin: 15px 0;">
-    Desenvolvedor Back-End apaixonado por <strong style="color: #00d4ff;">TypeScript</strong>, <strong style="color: #33cc33;">Node.js</strong> e <strong style="color: #ff4da6;">APIs escaláveis</strong>.  
+    Desenvolvedor Back-End em <strong style="color: #00d4ff;">TypeScript</strong>, <strong style="color: #33cc33;">Node.js</strong> e <strong style="color: #ff4da6;">APIs escaláveis</strong>.  
     <br/>
     <sub style="color: #cbd5e0;">Brasil 🇧🇷</sub>
   </p>
