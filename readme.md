@@ -8,13 +8,15 @@
 
 ---
 
-## 🚀 Sobre Mim
+<h2 align="center">🚀 Sobre Mim</h2>
 
-Desenvolvedor Back-End especializado em TypeScript, Node.js e APIs escaláveis.
+<p align="center">
+  <strong>Desenvolvedor Back-End especializado em TypeScript, Node.js e APIs escaláveis.</strong>
+</p>
 
 ---
 
-## 💻 Tecnologias & Ferramentas
+<h2 align="center">💻 Tecnologias & Ferramentas</h2>
 
 <div align="center">
 
@@ -29,7 +31,7 @@ Desenvolvedor Back-End especializado em TypeScript, Node.js e APIs escaláveis.
 
 ---
 
-## 📊 Estatísticas do GitHub
+<h2 align="center">📊 Estatísticas do GitHub</h2>
 
 <div align="center">
   
@@ -41,7 +43,7 @@ Desenvolvedor Back-End especializado em TypeScript, Node.js e APIs escaláveis.
 
 ---
 
-## 🎯 Especialidades
+<h2 align="center">🎯 Especialidades</h2>
 
 <div align="center">
 
@@ -69,7 +71,7 @@ Desenvolvedor Back-End especializado em TypeScript, Node.js e APIs escaláveis.
 
 ---
 
-## 📬 Entre em Contato
+<h2 align="center">📬 Entre em Contato</h2>
 
 <div align="center">
   
